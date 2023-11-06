@@ -26,7 +26,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Program :
 
-### DEVELOPED BY : MUKIL KUMAR V
+### DEVELOPED BY : RAKESH J S
 ### REGISTER NO : 212222230127
 
 ```
